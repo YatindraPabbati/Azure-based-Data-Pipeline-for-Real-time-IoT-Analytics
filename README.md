@@ -17,6 +17,8 @@ This project demonstrates an **end-to-end data pipeline** using **Microsoft Azur
 ## Architecture Overview  
 This architecture enables seamless data ingestion, processing, and storage from **IoT devices** to **Azure IoT Hub**. IoT data is routed through **Azure Service Bus Queues** to **Azure Functions** for processing. Processed data is stored in **Azure SQL Database** and **Blob Storage**, while **Snowflake** integrates via **Snowpipe** for advanced analytics.
 
+![Screenshot 2024-10-18 110446](https://github.com/user-attachments/assets/cc8549c1-badb-4238-a7e4-f350a9c06599)
+
 ---
 
 ## Technologies Used  
