@@ -1,4 +1,4 @@
-# Azure-Based Data Pipeline for Real-Time IoT Analytics
+# Microsoft Azure-Based Data Pipeline for Real-Time IoT Analytics
 
 This project demonstrates an **end-to-end data pipeline** using **Microsoft Azure services** and **Snowflake** to process, store, and analyze IoT data in **real-time**. The solution securely collects telemetry data from **IoT devices**, processes it through **Azure IoT Hub** and **Azure Functions**, and stores the data in **Azure SQL Database** and **Blob Storage**. **Snowflake** integrates via **Snowpipe** for advanced analytics.
 
